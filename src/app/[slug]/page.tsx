@@ -1,11 +1,7 @@
-import React from 'react';
+import React from "react";
 
 const SinglePage = () => {
-    return (
-        <div className=''>
-            SinglePage
-        </div>
-    );
+  return <div className="">SinglePage</div>;
 };
 
 export default SinglePage;
